@@ -1,0 +1,50 @@
+caption{
+background-color: aquamarine;
+
+
+}
+
+table{
+border-collapse: collapse;
+width: 50%;
+text-align: center;
+margin: 0 auto;
+}
+
+td,th{
+border: 1px solid rgb(8, 8, 8);
+text-align: center;
+height: 50px ;
+
+}
+
+.yellow{
+background-color: yellow ;
+color: black;
+
+}
+
+.red{
+background-color: rgb(252, 6, 6);
+color: azure;
+
+}
+
+
+body{
+background-color: rgb(48, 47, 47);
+
+}
+
+.white{
+background-color: white ;
+
+}
+
+.green{
+background-color: rgb(71, 133, 9);
+color: white;
+
+}
+
+
